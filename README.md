@@ -5,7 +5,7 @@ Este vídeo de 2 minutos apresenta um breve resumo da história da IA, informand
 
 ## 🤖 Tecnologias Utilizadas
 + [Chat GPT](https://chatgpt.com/) para criação de roteiro e ideias.
-+ [Pictory.AI]() para criação e edição do video.
++ [Pictory.AI](https://pictory.ai/) para criação e edição do video.
 
 ## 🧐 Processo de Criação
 Utilizei o Chat GPT para criação do roteiro, desenvolvimento das ideias do video e revisão. O Pictory.AI me ajudou na criação do video com as cenas, musica, dublagem e finalização do video
